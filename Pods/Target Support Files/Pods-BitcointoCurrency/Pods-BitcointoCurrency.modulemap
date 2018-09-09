@@ -1,0 +1,6 @@
+framework module Pods_BitcointoCurrency {
+  umbrella header "Pods-BitcointoCurrency-umbrella.h"
+
+  export *
+  module * { export * }
+}
